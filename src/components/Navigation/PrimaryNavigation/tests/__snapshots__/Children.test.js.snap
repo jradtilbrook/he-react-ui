@@ -2533,7 +2533,6 @@ exports[`<OnClickOutside(PrimaryNavigation) /> rendered correctly with Children 
                           ariaCurrent="true"
                           className="navLink"
                           key="logout"
-                          target="_self"
                           title="Logout"
                           to="/logout"
                         >
@@ -2544,7 +2543,6 @@ exports[`<OnClickOutside(PrimaryNavigation) /> rendered correctly with Children 
                               aria-current={false}
                               className="navLink"
                               replace={false}
-                              target="_self"
                               title="Logout"
                               to="/logout"
                             >
@@ -2553,7 +2551,6 @@ exports[`<OnClickOutside(PrimaryNavigation) /> rendered correctly with Children 
                                 className="navLink"
                                 href="/logout"
                                 onClick={[Function]}
-                                target="_self"
                                 title="Logout"
                               >
                                 <Logout

@@ -366,7 +366,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with OnePracticeWithCh
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -377,7 +376,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with OnePracticeWithCh
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -386,7 +384,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with OnePracticeWithCh
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -858,7 +855,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with default fixture 1
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -869,7 +865,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with default fixture 1
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -878,7 +873,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with default fixture 1
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -1350,7 +1344,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with loading fixture 1
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -1361,7 +1354,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with loading fixture 1
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -1370,7 +1362,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with loading fixture 1
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -1842,7 +1833,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with multiPracticeNoCh
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -1853,7 +1843,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with multiPracticeNoCh
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -1862,7 +1851,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with multiPracticeNoCh
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -2334,7 +2322,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noChildren fixtur
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -2345,7 +2332,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noChildren fixtur
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -2354,7 +2340,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noChildren fixtur
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -2826,7 +2811,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noItem fixture 1`
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -2837,7 +2821,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noItem fixture 1`
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -2846,7 +2829,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with noItem fixture 1`
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
@@ -3318,7 +3300,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with onePractice fixtu
               ariaCurrent="true"
               className="navLink"
               key="logout"
-              target="_self"
               title="Logout"
               to="/logout"
             >
@@ -3329,7 +3310,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with onePractice fixtu
                   aria-current={false}
                   className="navLink"
                   replace={false}
-                  target="_self"
                   title="Logout"
                   to="/logout"
                 >
@@ -3338,7 +3318,6 @@ exports[`<withRouter(SubNavigation) /> rendered correctly with onePractice fixtu
                     className="navLink"
                     href="/logout"
                     onClick={[Function]}
-                    target="_self"
                     title="Logout"
                   >
                     <Logout
