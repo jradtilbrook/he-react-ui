@@ -141,7 +141,6 @@ class SubNavigation extends Component<Props> {
               to={logoutRoute}
               className={style.navLink}
               title="Logout"
-              target="_self"
             >
               <Logout className={style.icon} />Logout
             </NavLink>
